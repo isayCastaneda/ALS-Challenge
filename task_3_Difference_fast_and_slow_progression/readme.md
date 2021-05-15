@@ -23,6 +23,6 @@ java -Xms2g -Xmx10g -jar exomiser-cli-12.1.0.jar --analysis analysis_als.yml
   2. Then run exomizer with run_exomizer.py, this dataset generet yml file per user please make sure that the path of main yml file is correct, also this file must be found in the exomizer folder.
   3. Run concat_data.py to cancatenate all data of exomizer result
 
-- matched_ids.tsv is the bridge betwwem originals ids and vcf ids
+- matched_ids.tsv is the bridge between originals ids and vcf ids
 
 If you need help to run exomizer or change the path configuration please let me kwno to isay.castaneda@bowheadhealth.com
